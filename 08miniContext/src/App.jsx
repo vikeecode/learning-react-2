@@ -10,6 +10,7 @@ function App() {
      <h1>React with chai</h1>
      <Login />
      <Profile />
+     <ThemeBtn />
     </UserContextProvider>
   )
 }
